@@ -2,12 +2,15 @@
 
 🎓 MCA Student
 
-## Interests
+## About Me
+I am an MCA student interested in Data Analytics, Generative AI, Python, SQL, and Power BI. I am continuously learning new technologies and building projects to strengthen my technical skills.
+
+## Skills
+- Python (Learning)
+- SQL (Learning)
 - Data Analytics
-- Generative AI
-- Python
-- SQL
 - Power BI
+- Generative AI
 
 ## Projects
 - MCA Academic Projects
